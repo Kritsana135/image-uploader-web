@@ -9,10 +9,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://image-uploader-web.vercel.app/">
-      Demo
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
       Challenge
     </a>
